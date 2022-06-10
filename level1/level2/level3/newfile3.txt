@@ -1,0 +1,63 @@
+M99J450@LPZWNL000026988 MINGW64 ~/projects/starter-web/level1 (master)
+$ git status
+On branch master
+Your branch is ahead of 'origin/master' by 3 commits.
+  (use "git push" to publish your local commits)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   newfile.txt
+
+
+M99J450@LPZWNL000026988 MINGW64 ~/projects/starter-web/level1 (master)
+$ git restore newfile.txt
+
+M99J450@LPZWNL000026988 MINGW64 ~/projects/starter-web/level1 (master)
+$ git status
+On branch master
+Your branch is ahead of 'origin/master' by 3 commits.
+  (use "git push" to publish your local commits)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   newfile.txt
+
+
+M99J450@LPZWNL000026988 MINGW64 ~/projects/starter-web/level1 (master)
+$ git reset newfile.txt
+Unstaged changes after reset:
+M       level1/newfile.txt
+
+M99J450@LPZWNL000026988 MINGW64 ~/projects/starter-web/level1 (master)
+$ git status
+On branch master
+Your branch is ahead of 'origin/master' by 3 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   newfile.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+M99J450@LPZWNL000026988 MINGW64 ~/projects/starter-web/level1 (master)
+$ git restore newfile.txt
+
+M99J450@LPZWNL000026988 MINGW64 ~/projects/starter-web/level1 (master)
+$ git sttaus
+git: 'sttaus' is not a git command. See 'git --help'.
+
+The most similar command is
+        status
+
+M99J450@LPZWNL000026988 MINGW64 ~/projects/starter-web/level1 (master)
+$ git status
+On branch master
+Your branch is ahead of 'origin/master' by 3 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+
+M99J450@LPZWNL000026988 MINGW64 ~/projects/starter-web/level1 (master)
+$
