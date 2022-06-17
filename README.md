@@ -9,3 +9,7 @@ Sample website with plenty of files for demos
 ## How To Contribute
 
 ## How To Not Contribute
+
+### Copyright
+
+2022 Git.Training.
