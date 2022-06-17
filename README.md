@@ -8,7 +8,7 @@ Sample website with plenty of files for demos
 
 ## How To Contribute
 
-Please fork this repo. Important.
+Please fork this repo. Important. Flowers.
 
 ## How To Not Contribute
 
