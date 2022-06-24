@@ -12,6 +12,6 @@ Please fork this repo. Important. Flowers.
 
 ## How To Not Contribute
 
-### Copyright
+### Copyright. All Rights Reserved.
 
 2022 Git.Training.
